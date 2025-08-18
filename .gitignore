@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]*/
+[Aa][Rr][Mm]64*/
+
+# IDEs (opcional)
+.idea/
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+!packages/build/
+!packages/repositories.config
+
+# Logs / temp
+*.log
+*.tlog
+*.cache
+*.tmp
+
+# Otros comunes
+_ReSharper*/
+*.scc
+*.dbmdl
+*.opendb
+[Tt]est[Rr]esult*/
+*.VisualState.xml
+*.aps
+*.ncb
+*.psess
+*.vsp
+*.vspx

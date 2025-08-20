@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_1
 {
-    internal class Operacion
+    public class Operacion
     {
         public DateTime Fecha { get; set; }
         public string Tipo { get; set; }
